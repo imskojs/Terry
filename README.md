@@ -1,5 +1,5 @@
 # Terry
-My kids wants to use github. 
+My kids want to use github. 
 Terry is 5.
 Yoori is 3
 
